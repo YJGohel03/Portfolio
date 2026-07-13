@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
 });
 
 // TODO: replace with your Google Drive resume link (use the "share" link, anyone-with-link viewer)
-const RESUME_URL = "https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing";
+const RESUME_URL = "https://drive.google.com/file/d/1ng774k_zIlT-2qQM1hHSFm8pfkKxRAyi/view?usp=sharing";
 
 
 
