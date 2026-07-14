@@ -206,7 +206,7 @@ function Portfolio() {
               />
               <div className="mt-4 flex items-center justify-between font-mono text-[10px] uppercase tracking-widest text-muted-foreground">
                 <span>Ahmedabad, IN</span>
-                <span>Frontend · UI/UX · Sec</span>
+                <span>Cyber Security</span>
               </div>
             </div>
           </div>
